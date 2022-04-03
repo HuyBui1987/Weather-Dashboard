@@ -1,4 +1,8 @@
-# Weather Dashboard
+# Huy Bui Homework-W6-WEATHER DASHBOARD
+
+## Author: Xuan Huy Bui
+## Phone number: 0426281351
+## Email: huybuixuan87@gmail.com
 
 ## Project Outline
 
@@ -7,7 +11,7 @@ Weather dashboard allows travellers to search a weather in a specific city befor
 ## User Story
 
 ```
-AS A traveler
+AS A Tourist and loving travel around country and the world.
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
@@ -35,5 +39,7 @@ The following image shows the web application's appearance and functionality:
 ![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Sydney.](./asset/weather-app-screenshot.png)
 
 ## Link to Deployed Application
+
+https://huybui1987.github.io/homework-w6-weatherdashboard/
 
 
