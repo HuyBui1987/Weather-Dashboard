@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../css/sky.jpeg);
+}
+
+h1 {
+  background-image: url(../css/sky.jpeg);
+  text-align: center;
+  color: white;
+}
+label {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.card {
+  margin: 10px;
+}
+
+.histBtnRow {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.green {
+  background-color: lightgreen;
+}
+.yellow {
+  background-color: yellow;
+}
+.orange {
+  background-color: orange;
+}
+.red {
+  background-color: red;
+}
+.purple {
+  background-color: purple;
+}
+.icons {
+  height: 70px;
+  width: 70px;
+}
+.cardTodayDate {
+  font-size: 20px;
+}
+
+.mainCon {
+  background-image: url(../css/sky.jpeg);
+  opacity: 0.8;
+}
+
+.cityHistory {
+  color: white;
+}
+.fiveForecast {
+  font-size: 12px;
+}
+
+.clock {
+  position: absolute;
+  right: 100px;
+  top: 70px;
+  width: 400px;
+  height: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: black;
+  text-align: center;
+  color: #ffffff;
+  text-align: center;
+  font-family: "DIGITAL", Helvetica;
+  font-size: 60px;
+}
+
+@media screen and (max-width: 768px) {
+  .clock {
+    position: absolute;
+    right: 20px;
+    top: 30px;
+    width: 40px;
+    height: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    text-align: center;
+    color: #ffffff;
+    text-align: center;
+    font-family: "DIGITAL", Helvetica;
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .clock {
+    position: absolute;
+    right: 100px;
+    top: 70px;
+    width: 400px;
+    height: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    text-align: center;
+    color: #ffffff;
+    text-align: center;
+    font-family: "DIGITAL", Helvetica;
+    font-size: 60px;
+  }
+}
