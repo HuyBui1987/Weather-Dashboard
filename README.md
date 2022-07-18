@@ -38,7 +38,7 @@ THEN I am again presented with current and future conditions for that city
 ## Walkthrough Video
 This is video record of the application working on github page.
 
-[Github page Demo](https://drive.google.com/file/d/1iHsuDKLXzoFzcKw1LmxdY7LTHWVQaBXd/view)
+[Github page Demo](https://drive.google.com/file/d/1YHAeR6xiPRxaykkosf-_62JK__9mBdRh/view)
 
 ## Credits
 
@@ -50,7 +50,7 @@ This is video record of the application working on github page.
 
 This activity is using MIT license.
 
-[github page link](https://github.com/HuyBui1987)
+[github page link](https://huybui1987.github.io/homework-w6-weatherdashboard/)
 
 [my github](https://github.com/HuyBui1987)
 
